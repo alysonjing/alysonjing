@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Allison
-- 👀 I’m interested in researching remote collaboration using Mixed Reality visual communication cues (gaze, speech, gesture, physio etc)
+- 👀 I’m interested in researching Mixed Reality empathic computing in gaze, speech, gesture, facial expressions, body movements, biofeedback, etc.
 - 🌱 I’m currently a PostDoc Researcher in Human-Computer Interaction 
 - 💞️ I’m looking to collaborate on anything related to my research topic
-- 📫 How to reach me jing.allison@gmail.com
+- 📫 Please feel free to reach me at jing.allison@gmail.com
 
 <!---
 alysonjing/alysonjing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
